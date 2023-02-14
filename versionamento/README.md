@@ -1,14 +1,9 @@
-![logo do senai](https://clickpetroleoegas.com.br/wp-content/uploads/2020/08/Senai-1024x546-1.jpg)
-# SENAI Curso Programador-Full-Stack
-## Repositório criado para exercícios e projetos do curso SENAI - Programador Full Stack
+# Versionamento
 
+## Repositório criado para execução das atividades de versionamento do curso de Programador Full Stack do SENAI.
 
-### Diretórios atuais deste repositório:
-
-
-#### 1. **Versionamento**
-    Neste Repositório são abordados conceitos relacionados às Metodologias para Controle de Versões em Projetos Web.
-    No decorrer destes estudos, foram desensvolvidas as seguintes capacidades:
+###  Neste Repositório são abordados conceitos relacionados às Metodologias para Controle de Versões em Projetos Web.
+####    No decorrer destes estudos, foram desensvolvidas as seguintes capacidades:
 
     - Visão sistêmica de compartilhamento e evolução de códigos.
     - Reconhecimento do sequencial de versões de códigos.
