@@ -1,0 +1,15 @@
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/controle-de-clientes/projeto/bin/Debug/net6.0/projeto
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/controle-de-clientes/projeto/bin/Debug/net6.0/projeto.deps.json
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/controle-de-clientes/projeto/bin/Debug/net6.0/projeto.runtimeconfig.json
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/controle-de-clientes/projeto/bin/Debug/net6.0/projeto.dll
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/controle-de-clientes/projeto/bin/Debug/net6.0/ref/projeto.dll
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/controle-de-clientes/projeto/bin/Debug/net6.0/projeto.pdb
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/controle-de-clientes/projeto/obj/Debug/net6.0/projeto.csproj.AssemblyReference.cache
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/controle-de-clientes/projeto/obj/Debug/net6.0/projeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/controle-de-clientes/projeto/obj/Debug/net6.0/projeto.AssemblyInfoInputs.cache
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/controle-de-clientes/projeto/obj/Debug/net6.0/projeto.AssemblyInfo.cs
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/controle-de-clientes/projeto/obj/Debug/net6.0/projeto.csproj.CoreCompileInputs.cache
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/controle-de-clientes/projeto/obj/Debug/net6.0/projeto.dll
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/controle-de-clientes/projeto/obj/Debug/net6.0/ref/projeto.dll
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/controle-de-clientes/projeto/obj/Debug/net6.0/projeto.pdb
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/controle-de-clientes/projeto/obj/Debug/net6.0/projeto.genruntimeconfig.cache
