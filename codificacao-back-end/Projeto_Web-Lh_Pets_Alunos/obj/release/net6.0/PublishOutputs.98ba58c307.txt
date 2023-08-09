@@ -1,0 +1,13 @@
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/bin/release/net6.0/publish/Projeto_Web-Lh_Pets_Alunos
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/bin/release/net6.0/publish/appsettings.Development.json
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/bin/release/net6.0/publish/appsettings.json
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/bin/release/net6.0/publish/Projeto_Web-Lh_Pets_Alunos.dll
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/bin/release/net6.0/publish/Projeto_Web-Lh_Pets_Alunos.deps.json
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/bin/release/net6.0/publish/Projeto_Web-Lh_Pets_Alunos.runtimeconfig.json
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/bin/release/net6.0/publish/Projeto_Web-Lh_Pets_Alunos.pdb
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/bin/release/net6.0/publish/System.Data.SqlClient.dll
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/bin/release/net6.0/publish/runtimes/win-arm64/native/sni.dll
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/bin/release/net6.0/publish/runtimes/win-x64/native/sni.dll
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/bin/release/net6.0/publish/runtimes/win-x86/native/sni.dll
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/bin/release/net6.0/publish/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/bin/release/net6.0/publish/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll

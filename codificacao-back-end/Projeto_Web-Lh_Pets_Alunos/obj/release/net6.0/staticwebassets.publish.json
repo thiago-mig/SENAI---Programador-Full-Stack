@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "zj8X3Ew/iEt3vnlalaZ/JP0JOXIZ3sVNd3B6Jmpri9g=",
+  "Source": "Projeto_Web-Lh_Pets_Alunos",
+  "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web-Lh_Pets_Alunos/wwwroot",
+      "Source": "Projeto_Web-Lh_Pets_Alunos",
+      "ContentRoot": "/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/wwwroot/",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/wwwroot/index.html",
+      "SourceId": "Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/thiago/workspace/SENAI/SENAI---Programador-Full-Stack/codificacao-back-end/Projeto_Web-Lh_Pets_Alunos/wwwroot/",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
