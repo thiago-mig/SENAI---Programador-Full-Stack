@@ -16,6 +16,7 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MenuComponent } from './components/menu/menu.component';
 import { InicioComponent } from './components/inicio/inicio.component';
+import { FooterComponent } from './components/footer/footer.component';
 //import { LoginComponent } from './components/page/login/login.component';
 
 @NgModule({
@@ -23,6 +24,7 @@ import { InicioComponent } from './components/inicio/inicio.component';
     AppComponent,
     MenuComponent,
     InicioComponent,
+    FooterComponent,
     //LoginComponent
   ],
   imports: [

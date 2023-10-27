@@ -1,14 +1,15 @@
+main{
+  min-height: 82vh;
+}
+
 form {
   display: flex;
   flex-direction: column;
-  align-content: stretch;
+  text-align: center;
   max-width: 78vh;
-  margin: 20px auto;
+  margin: 30px auto;
   border: 1px solid rgba(0, 0, 0, 0.5);
   padding: 20px;
   border-radius: 8px;
 }
 
-form mat-form-field + mat-form-field {
-  margin-left: 8px;
-}
