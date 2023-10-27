@@ -1,0 +1,65 @@
+main {
+  min-height: 65vh;
+}
+
+#section-banner {
+  min-height: 450px;
+}
+
+#section-banner img {
+  height: 550px;
+}
+
+.example-card {
+  max-width: 400px;
+}
+  
+.example-header-image1 {
+  background-image: url('../../../assets/img/jogo1.PNG');
+  background-size: cover;
+}
+
+.example-header-image2 {
+  background-image: url('../../../assets/img/jogo2.PNG');
+  background-size: cover;
+}
+
+.example-header-image3 {
+  background-image: url('../../../assets/img/jogo3.PNG');
+  background-size: cover;
+}
+
+section > h2 {
+  font-size: 30px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  background-color: #673ab7;
+  color: white;
+  height: 60px;
+  padding-top: 10px;
+}
+
+#section-grid {
+  margin-top: 0;
+}
+
+.example-card-spacer {
+    flex: 1 1 auto;
+}
+
+mat-card img{
+  height: 300px;
+}
+
+mat-card p {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  padding: 15px 0px;
+}
+
+mat-card-actions p {
+  font-size: 30px;
+  color:red;
+}

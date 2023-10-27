@@ -1,0 +1,15 @@
+main{
+  min-height: 82vh;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  max-width: 78vh;
+  margin: 30px auto;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 8px;
+}
+
